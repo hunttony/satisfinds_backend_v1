@@ -1,0 +1,270 @@
+[
+  {
+    "id": "917a32b7-3770-43dd-98b8-6adef21e7c8f",
+    "email": "ahuntxvbn3542@gmail.com",
+    "username": "Antonio Hunt",
+    "bio": "This is a test of the bio section of my dashboard form.",
+    "image": "./src/content/images/liberty.jpg",
+    "links": [
+      "http://www.mysite.com",
+      "http://www.mysecondsite.com",
+      "http://www.mythirdsite.com"
+    ],
+    "name": "FoodFare",
+    "address": "2808 Tulane Ave.",
+    "phone": "1-346-600-4356",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "77489",
+    "cuisine": " American Cuisine",
+    "tagline": "The Best American Fare In Town",
+    "tags": "oxtails, sweet potatos, beef tips, mashed potatos, rice"
+  },
+  {
+    "id": "55bef267-2a25-4bf6-9920-e75e1a21b80e",
+    "name": "BaylesBistro",
+    "email": "ahu2@gmail.com",
+    "username": "Tony Bayles",
+    "phone": "346-778-0387",
+    "address": "12345 Main Street",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "77060",
+    "cuisine": "American",
+    "tagline": "The Best American Fare In Town",
+    "tags": "oxtails, sweet potatos, beef tips, mashed potatos, rice",
+    "bio": "my business is new, but my food is good!",
+    "image": "",
+    "links": [
+      "www.BaylesBistro.com"
+    ]
+  },
+  {
+    "id": "ecc82b5c-7199-47f0-90bf-e5463e7fab05",
+    "email": "tennishawhite@aol.com",
+    "username": "'Nisha",
+    "bio": "",
+    "image": "",
+    "links": [
+      "www.dishtalgia.com"
+    ],
+    "name": "Dishtalgia",
+    "address": "",
+    "phone": "346-363-2483",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "77060",
+    "cuisine": "Comfort Foods",
+    "tagline": "",
+    "tags": ""
+  },
+  {
+    "id": "d922b00d-555c-406e-b96b-71de1e0cf0a5",
+    "email": "buddy@newbiz.com",
+    "username": "BuddyRoe",
+    "bio": "I started this business 3 months ago because i needed some money.",
+    "image": "",
+    "links": [
+      "http://www.buddysburgers9.com",
+      "http://www.myfacebooklink.com"
+    ],
+    "name": "BuddysBurgers",
+    "address": "1525 Foodbiz ave.",
+    "phone": "346-663-9978",
+    "city": "Conroe",
+    "state": "Texas",
+    "zip": "77567",
+    "cuisine": "Burgers",
+    "tagline": "I got the best burgers bar none",
+    "tags": "Our meat is juicy",
+    "url": "e"
+  },
+  {
+    "id": "e33694c2-1f77-45a7-a5d3-2b49b1376b15",
+    "email": "john.doe@example.com",
+    "username": "John Doe",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "",
+    "links": [
+      "http://www.example.com"
+    ],
+    "name": "John's Place",
+    "address": "123 Main Street",
+    "phone": "123-456-7890",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "77001",
+    "cuisine": "International",
+    "tagline": "Experience the best of international cuisine",
+    "tags": "Lorem, ipsum, dolor"
+  },
+  {
+    "id": "9b0df01e-9f53-45ad-826a-44872c06d5bc",
+    "email": "jane.smith@example.com",
+    "username": "Jane Smith",
+    "bio": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+    "image": "",
+    "links": [
+      "http://www.example2.com"
+    ],
+    "name": "Jane's Diner",
+    "address": "456 Oak Street",
+    "phone": "987-654-3210",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "78701",
+    "cuisine": "American",
+    "tagline": "Traditional American dining at its best",
+    "tags": "Sed, ut, perspiciatis"
+  },
+  {
+    "id": "3f24d1c7-09ae-4b9d-9d71-cf5ee5f0eb70",
+    "email": "sarah.jones@example.com",
+    "username": "Sarah Jones",
+    "bio": "Vivamus suscipit tortor eget felis porttitor volutpat.",
+    "image": "",
+    "links": [
+      "http://www.example3.com"
+    ],
+    "name": "Sarah's Bakeshop",
+    "address": "789 Maple Avenue",
+    "phone": "456-789-0123",
+    "city": "Dallas",
+    "state": "Texas",
+    "zip": "75201",
+    "cuisine": "Bakery",
+    "tagline": "Delicious treats baked with love",
+    "tags": "Vivamus, suscipit, tortor"
+  },
+  {
+    "id": "607159e9-181d-4729-af13-4a6aa891e0e7",
+    "email": "michael.smith@example.com",
+    "username": "Michael Smith",
+    "bio": "Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.",
+    "image": "",
+    "links": [
+      "http://www.example4.com"
+    ],
+    "name": "Mike's Pizza Place",
+    "address": "101 Pine Street",
+    "phone": "234-567-8901",
+    "city": "San Antonio",
+    "state": "Texas",
+    "zip": "78201",
+    "cuisine": "Italian",
+    "tagline": "Authentic Italian pizza made fresh daily",
+    "tags": "Praesent, sapien, massa"
+  },
+  {
+    "id": "8778460a-05f6-48a0-b9d4-5a9833a6e982",
+    "email": "david.johnson@example.com",
+    "username": "David Johnson",
+    "bio": "Donec sollicitudin molestie malesuada.",
+    "image": "",
+    "links": [
+      "http://www.example5.com"
+    ],
+    "name": "Dave's BBQ Shack",
+    "address": "456 Elm Street",
+    "phone": "345-678-9012",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "zip": "76101",
+    "cuisine": "Barbecue",
+    "tagline": "Savor the flavor of authentic Texas BBQ",
+    "tags": "Donec, sollicitudin, molestie"
+  },
+  {
+    "id": "ca5a123b-8dbf-4dc3-bb9f-062f3fd8879b",
+    "email": "jessica.williams@example.com",
+    "username": "Jessica Williams",
+    "bio": "Quisque velit nisi, pretium ut lacinia in, elementum id enim.",
+    "image": "",
+    "links": [
+      "http://www.example6.com"
+    ],
+    "name": "Jessie's Cafe",
+    "address": "789 Oak Street",
+    "phone": "567-890-1234",
+    "city": "El Paso",
+    "state": "Texas",
+    "zip": "79901",
+    "cuisine": "Cafe",
+    "tagline": "A cozy cafe for coffee lovers",
+    "tags": "Quisque, velit, nisi"
+  },
+  {
+    "id": "d60c7b56-49f6-4745-88b5-dfb068f3b0c9",
+    "email": "chris.wilson@example.com",
+    "username": "Chris Wilson",
+    "bio": "Curabitur aliquet quam id dui posuere blandit.",
+    "image": "",
+    "links": [
+      "http://www.example7.com"
+    ],
+    "name": "Chris's Sushi Bar",
+    "address": "1010 Pine Street",
+    "phone": "678-901-2345",
+    "city": "Arlington",
+    "state": "Texas",
+    "zip": "76001",
+    "cuisine": "Japanese",
+    "tagline": "Fresh sushi made with the finest ingredients",
+    "tags": "Curabitur, aliquet, quam"
+  },
+  {
+    "id": "b07f88b1-3a85-46a3-b9e4-59a90e5d5768",
+    "email": "emily.miller@example.com",
+    "username": "Emily Miller",
+    "bio": "Nulla quis lorem ut libero malesuada feugiat.",
+    "image": "",
+    "links": [
+      "http://www.example8.com"
+    ],
+    "name": "Emily's Diner",
+    "address": "123 Oak Avenue",
+    "phone": "789-012-3456",
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "zip": "78401",
+    "cuisine": "American",
+    "tagline": "Classic American diner experience",
+    "tags": "Nulla, quis, lorem"
+  },
+  {
+    "id": "1160678f-c3fe-4b8e-a71a-e9351d651a75",
+    "email": "jon1823@tee.com"
+  },
+  {
+    "id": "ab0d408a-6767-44ba-9fe0-9bb8edc983b5",
+    "email": "admin@jsonapi.com"
+  },
+  {
+    "id": "02ad905a-49a4-458b-99be-1524932f452c",
+    "email": "purple_dove@front.com"
+  },
+  {
+    "id": "1fe4482d-7d4e-4742-8c30-cec8b78ecf7a",
+    "email": "green_dove@front.com"
+  },
+  {
+    "id": "2ca0705e-8f86-45dc-914d-c588d4ef9e25",
+    "email": "green2_dove@front.com"
+  },
+  {
+    "id": "ca93ee03-06be-4ae8-aecd-2f44ce40061d",
+    "email": "green8_dove@front.com"
+  },
+  {
+    "id": "57d7c4c1-a954-4703-88a3-c85017d0c7c6",
+    "email": "green10_dove@front.com"
+  },
+  {
+    "id": "7fbcbe5c-fa24-418b-963c-fd79b598d2a5",
+    "email": "green11_dove@front.com"
+  },
+  {
+    "id": "4d072ab2-c76c-4477-9b10-05958a278b44",
+    "email": "green113_dove@front.com"
+  }
+]
