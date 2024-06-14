@@ -6,10 +6,16 @@ const cors = require('cors');
 
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json({limit: '50mb'}));
-app.use(cors());
+const corsOptions = {
+  origin: 'http://localhost:3000', // Allow your local development origin
+  optionsSuccessStatus: 200 // For legacy browser support
+};
+
+app.use(cors(corsOptions));
+app.use(express.json());
 
 async function checkMongoDBConnection() {
   try {
